@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Thu Jun 30 19:36:23 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-b4ef-2edb-00000072b9c8 
+on database directory memory:/home/knoldus/Desktop/4spring/Junit-mockito/53ee19b4-5c68-4b4b-bc3f-3e0e9141aeda with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@f9a4f8e5 
+Loaded from file:/home/knoldus/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=16.0.1+9
+java.fullversion=16.0.1+9
+JRE 16 Linux amd64-64-Bit Compressed References 20210421_23 (JIT enabled, AOT enabled)
+OpenJ9   - b4cc246d9
+OMR      - 162e6f729
+JCL      - cea22090ecf based on jdk-16.0.1+9
+user.dir=/home/knoldus/Desktop/4spring/Junit-mockito
+os.name=Linux
+os.arch=amd64
+os.version=5.13.0-51-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
